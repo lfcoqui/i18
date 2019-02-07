@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300i,400');
+/* CSS reset */
+*{
+	margin:0;
+	padding:0;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+body{
+	background:#F0D09D;
+}
+
